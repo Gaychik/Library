@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 using NewLibrary.Controllers;
 
-
+// Основная форма,откуда я перехожу к базе с абонентами, также отсюда могу перейти к книгам и должникам
 namespace NewLibrary
 {
     public partial class Menu : Form

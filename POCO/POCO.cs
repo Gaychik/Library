@@ -4,7 +4,7 @@ using LinqToDB.Mapping;
 using System.Collections.Generic;
 using System.Collections;
 using System.Reflection;
-
+// РОСО объекты
 namespace NewLibrary.POCO
 {
     public partial class LibraryDB : LinqToDB.Data.DataConnection

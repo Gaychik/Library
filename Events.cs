@@ -12,8 +12,7 @@ using System.Reflection;
 using NewLibrary.Book;
 using NewLibrary.Person;
 
-
-
+//Несколько событий ,подписаны на события клика мыши по кнопки 
 namespace NewLibrary
 {
 
